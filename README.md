@@ -25,7 +25,7 @@ There's nothing particularly platform specific about the library. However, the s
 Including the Library
 ---------------------
 
-The header file (`"five_pixel_font.h"`) may be included in multiple source files. However, __`FPF_IMPLEMENTATION`__ should be defined in a single source file before including `"five_pixel_font.h"`. Defining **`FPF_IMPLEMENTATION`** causes the library code to be expanded in that translation unit. For example:
+The header file (`"five_pixel_font.h"`) may be included in multiple source files. However, **`FPF_IMPLEMENTATION`** should be defined in a single source file before including `"five_pixel_font.h"`. Defining **`FPF_IMPLEMENTATION`** causes the library code to be expanded in that translation unit. For example:
 
 ```C
     #define FPF_IMPLEMENTATION
