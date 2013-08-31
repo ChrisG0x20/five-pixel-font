@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fpf_test", "fpf_test\fpf_test.vcxproj", "{CCE02F26-6635-4DB6-B7C7-924F775D82A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gl_test", "gl_test\gl_test.vcxproj", "{DB7D9D87-3CAB-4FDB-8F0C-9B14418B70A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dx_test", "dx_test\dx_test.vcxproj", "{BFF89764-370F-4F6C-8956-661FD8088625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE02F26-6635-4DB6-B7C7-924F775D82A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCE02F26-6635-4DB6-B7C7-924F775D82A2}.Debug|Win32.Build.0 = Debug|Win32
+		{CCE02F26-6635-4DB6-B7C7-924F775D82A2}.Release|Win32.ActiveCfg = Release|Win32
+		{CCE02F26-6635-4DB6-B7C7-924F775D82A2}.Release|Win32.Build.0 = Release|Win32
+		{DB7D9D87-3CAB-4FDB-8F0C-9B14418B70A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB7D9D87-3CAB-4FDB-8F0C-9B14418B70A5}.Debug|Win32.Build.0 = Debug|Win32
+		{DB7D9D87-3CAB-4FDB-8F0C-9B14418B70A5}.Release|Win32.ActiveCfg = Release|Win32
+		{DB7D9D87-3CAB-4FDB-8F0C-9B14418B70A5}.Release|Win32.Build.0 = Release|Win32
+		{BFF89764-370F-4F6C-8956-661FD8088625}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFF89764-370F-4F6C-8956-661FD8088625}.Debug|Win32.Build.0 = Debug|Win32
+		{BFF89764-370F-4F6C-8956-661FD8088625}.Release|Win32.ActiveCfg = Release|Win32
+		{BFF89764-370F-4F6C-8956-661FD8088625}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
